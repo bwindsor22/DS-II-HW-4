@@ -19,7 +19,7 @@ https://www.payscale.com/research/US/Job=Data_Analyst/Salary
 ```
 
 # Problem 2: BSTs
-Return the smallest node of a BST. (Note that only trees 0, 1, and 2 are BSTs.)
+Return the smallest node of a BST. (Note that under the class `Util`, only trees 0, 1, and 2 are BSTs.)
 
 
 # Problem 3: Adding Arguments to Tree Traversals I
