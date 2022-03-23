@@ -1,5 +1,6 @@
 # Problem 1: Careers
 <i>Note: writing only, no code required</i>
+
 Refer to the jobs in Slide 8 of lecture: https://docs.google.com/presentation/d/12SzDspzzCMxQyhrXhFZTRElWz3bHM1KB/edit?usp=sharing&ouid=110578576214743957709&rtpof=true&sd=true 
 
 Fill out the following table for programming/engineering jobs. For instance, you might use the following links for the data analyst position.
